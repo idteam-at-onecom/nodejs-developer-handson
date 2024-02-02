@@ -1,4 +1,4 @@
-# PHP & WordPress Developer Handson
+# Node.js Developer Handson
 
 ## Instructions
 
