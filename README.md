@@ -2,6 +2,8 @@
 
 ## Instructions
 
+**Important** Before you begin with the assignment, it is important to know that you will be required to work on Golang and Node.js projects both, starting with Golang projects.  You will be required to scale-up yourself in Golang if selected for the position.  If you aren't interested to learn and work with Golang programming language in addition to Node.js, then it is better you skip the assignment and update our hiring team.
+
 ```
 1. Create a PRIVATE Github repository.  Add "idteam-at-onecom" as collaborator.
 2. Read and understand the questions carefully before attempting them.
