@@ -6,8 +6,7 @@
 1. Create a PRIVATE Github repository.  Add "idteam-at-onecom" as collaborator.
 2. Read and understand the questions carefully before attempting them.
 3. Record your assumptions about anything in a file for interviewers to consider.
-4. Clear any doubts with the proctor.
-5. This is a CONFIDENTIAL material of one.com and should not be shared with anyone else.
+4. This is a CONFIDENTIAL material of one.com and should not be shared with anyone else.
 ```
 
 ---
