@@ -2,7 +2,7 @@
 
 ## Instructions
 
-**Important** “We would like to highlight that several components of this "product development" include GoLang in addition to NodeJS. Hence it will be a wonderful learning exposure to you. We hope you will adopt this learning path for yourself. If you are a core NodeJS developer and have no inclination to explore GoLang, please highlight to the recruitment team.”
+**Important** We would like to highlight that several components of this "product development" include GoLang in addition to NodeJS. Hence it will be a wonderful learning exposure to you. We hope you will adopt this learning path for yourself. If you are a core NodeJS developer and have no inclination to explore GoLang, please highlight to the recruitment team.
 ```
 1. Create a PRIVATE Github repository.  Add "idteam-at-onecom" as collaborator.
 2. Read and understand the questions carefully before attempting them.
