@@ -18,7 +18,7 @@ Build an `Event collector` HTTP micro service in Node.js.  Following are the req
 
 - HTTP service should run on port 7007
 - Create a database using MySQL or PostgreSQL or CockroachDB to store the events.  Let us also see how well you define the database schema.
-- Create docker compose file to run this multi-container app stack including the Node application and Database.  Ideally `docker-compose up` should start your app in a working state.
+- Create Dockerfile and docker compose file to run this multi-container app stack including the Node application and Database.  Running `docker-compose up` should start the entire app including database in a fully functional state.  There should be no manual tweaks.
   
 Following are the endpoints:
 
